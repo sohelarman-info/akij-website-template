@@ -353,7 +353,7 @@ body{
     margin: auto 20%;
 }
 .company_list{
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .company_img{
     box-shadow: 2px 3px 3px 2px rgb(0 0 0 / 10%);
@@ -370,6 +370,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
 .company_img:hover{
     transform: scale(1.30);
@@ -742,5 +743,6 @@ body{
 }
 .copyright p{
     color: #fff;
+    
 }
 /* footer part css end */
